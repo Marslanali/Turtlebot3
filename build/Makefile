@@ -292,7 +292,7 @@ _catkin_empty_exported_target: cmake_check_build_system
 
 # fast build rule for target.
 _catkin_empty_exported_target/fast:
-	$(MAKE) -f turtlebot3/turtlebot3/CMakeFiles/_catkin_empty_exported_target.dir/build.make turtlebot3/turtlebot3/CMakeFiles/_catkin_empty_exported_target.dir/build
+	$(MAKE) -f hector_gazebo/hector_gazebo/CMakeFiles/_catkin_empty_exported_target.dir/build.make hector_gazebo/hector_gazebo/CMakeFiles/_catkin_empty_exported_target.dir/build
 .PHONY : _catkin_empty_exported_target/fast
 
 #=============================================================================

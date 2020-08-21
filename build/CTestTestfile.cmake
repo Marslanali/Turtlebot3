@@ -5,6 +5,8 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs(gtest)
+subdirs(hector_gazebo/hector_gazebo)
+subdirs(hector_gazebo/hector_gazebo_worlds)
 subdirs(turtlebot3/turtlebot3)
 subdirs(turtlebot3_msgs)
 subdirs(turtlebot3/turtlebot3_navigation)
