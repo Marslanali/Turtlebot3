@@ -149,7 +149,7 @@ turtlebot3_drive_EXTERNAL_OBJECTS =
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libpthread.so
-../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libprotobuf.so
+../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/local/lib/libprotobuf.a
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libsdformat.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libignition-math2.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libOgreMain.so
@@ -206,7 +206,7 @@ turtlebot3_drive_EXTERNAL_OBJECTS =
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libgazebo_math.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libgazebo_ccd.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libboost_iostreams.so
-../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libprotobuf.so
+../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/local/lib/libprotobuf.a
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libsdformat.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libOgreMain.so
 ../devel/lib/turtlebot3_gazebo/turtlebot3_drive: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so

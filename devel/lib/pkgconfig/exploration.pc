@@ -1,0 +1,8 @@
+prefix=/home/arslan/Turtlebot3/devel
+
+Name: exploration
+Description: Description of exploration
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
